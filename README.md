@@ -52,18 +52,6 @@ Open the `.ipynb` files using **Jupyter Notebook**, **VS Code**, or **JupyterLab
     
 - "Show the number of listings per neighborhood."
     
-
----
-
-## 📌 Notes
-
-- These notebooks are standalone and do not require access to Azure.
-    
-- The dataset used is a cleaned version of the real estate sales dataset used in a team machine learning project.
-    
-- For AutoML and Azure SQL usage, refer to the main project (link available upon request).
-    
-
 ---
 
 ## 🤝 Contributions
