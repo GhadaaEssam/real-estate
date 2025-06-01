@@ -63,5 +63,3 @@ Feel free to open issues or pull requests for suggestions or improvements.
 ## 📄 License
 
 This project is licensed under the [MIT License](https://chatgpt.com/c/LICENSE).
-
-```
